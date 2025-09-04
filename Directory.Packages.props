@@ -1,6 +1,5 @@
 <Project>
   <PropertyGroup>
-    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
     <DisableImplicitNuGetFallbackFolder>true</DisableImplicitNuGetFallbackFolder>
     <TargetFramework>net8.0</TargetFramework>
     <AspNetVersion>8.0.2</AspNetVersion>
