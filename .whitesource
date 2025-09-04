@@ -1,0 +1,20 @@
+{
+  "hostRules": [
+    {
+      "matchHost": "https://pkgs.dev.azure.com/aayantmend/_packaging/aayanthalakola/nuget/v3/index.json",
+      "hostType": "nuget",
+      "userName": "aayantmend",
+      "encrypted": {
+        "token": "wcBMA8xOaBJvzJNbAQgAgyiKUt+dptWPuf8xd8WrN2gqb6xresZmd/53aozzNrjZYzqMPRza7Pv/SOcEfLWUoA83f0o4KTH3AG0f4hz/Fs8JhtNoiVLY+xbsjZHHJsr3AWaMd5sX720cVslMfWq7SBnzpVcFNj94RDs9uWWQIR+A6NDSLW07Dw+ijOimiVZInor4hZNoejIbg9wMPQwjryMzp4FuTEzTvWgwnrhbwuXYeb8XD/5H3WeZ12ytLZ4cdXOMUJKgfOWQu/yP7SWVXYllfcJ2L2Opk0TmrweBmijuGC8705Z6hnJcGqg++r78E+VMEztS8GPsN2VxVSNH6DMryvKZL4mBz8/z0Ujp9dKoAbwKisEUgIWE9C90pAry5AOk7z9KsieZPKODn3c7BJBpsfJtQwMsT+DGUIMavI8+dl8iqUzKZkxEkQGXCtTGpxPwQF5LfAyxvLE/k74R29pcBwkG+nL7st/GKgmlCol63ANHRzi+CiX2RxJu8TcYqP/GI2hxVszaOyQvyc3nHybB2BUf3+euAQS/lXE18ZM/mncLAE49hpmOf160OKNNlh1dR9MTxWck"
+      }
+    },
+    {
+      "matchHost": "https://pkgs.dev.azure.com/aayantmend/_packaging/aayanthalakola/npm/registry/",
+      "hostType": "npm",
+      "userName": "aayantmend",
+      "encrypted": {
+        "token": "wcBMA8xOaBJvzJNbAQgAgyiKUt+dptWPuf8xd8WrN2gqb6xresZmd/53aozzNrjZYzqMPRza7Pv/SOcEfLWUoA83f0o4KTH3AG0f4hz/Fs8JhtNoiVLY+xbsjZHHJsr3AWaMd5sX720cVslMfWq7SBnzpVcFNj94RDs9uWWQIR+A6NDSLW07Dw+ijOimiVZInor4hZNoejIbg9wMPQwjryMzp4FuTEzTvWgwnrhbwuXYeb8XD/5H3WeZ12ytLZ4cdXOMUJKgfOWQu/yP7SWVXYllfcJ2L2Opk0TmrweBmijuGC8705Z6hnJcGqg++r78E+VMEztS8GPsN2VxVSNH6DMryvKZL4mBz8/z0Ujp9dKoAbwKisEUgIWE9C90pAry5AOk7z9KsieZPKODn3c7BJBpsfJtQwMsT+DGUIMavI8+dl8iqUzKZkxEkQGXCtTGpxPwQF5LfAyxvLE/k74R29pcBwkG+nL7st/GKgmlCol63ANHRzi+CiX2RxJu8TcYqP/GI2hxVszaOyQvyc3nHybB2BUf3+euAQS/lXE18ZM/mncLAE49hpmOf160OKNNlh1dR9MTxWck"
+      }
+    }
+  ]
+}
