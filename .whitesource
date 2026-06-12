@@ -5,7 +5,7 @@
   },
   "issueSettingsSAST": {
     "issueType": "finding",
-    "minSeverityLevel": "medium"
+    "minSeverityLevel": "low"
   },
   "hostRules": [
     {
