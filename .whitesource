@@ -1,4 +1,12 @@
 {
+  "scanSettingsSAST": {
+    "findingSuppressions": "enabled",
+    "enableScan": true
+  },
+  "issueSettingsSAST": {
+    "issueType": "repo",
+    "minSeverityLevel": "medium"
+  },
   "hostRules": [
     {
       "matchHost": "https://pkgs.dev.azure.com/aayantmend/_packaging/aayanthalakola/nuget/v3/index.json",
